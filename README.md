@@ -8,3 +8,7 @@ The Docker-compose YAML file takes the Dockerfiles and builds the infrastructure
 
 ## Application
 Once setup finished, the web server displays a list of Bulgarian cities from the database, on top of a map of Bulgaria.  
+
+The website shows facts about Bulgaria, for the moment written only in Bulgarian:
+![image](https://github.com/user-attachments/assets/0439f11a-65ef-46fc-a910-5d2eca7736ae)
+
